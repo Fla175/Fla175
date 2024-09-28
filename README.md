@@ -11,9 +11,7 @@
 <hr>
 
 <h3 align="left">Nationality</h3>
-<p align="left">
- Brazilian 🇧🇷 🗿🍷
-</p>
+<h6>Brazilian 🇧🇷 🗿🍷</h6>
 
 <hr>
 
