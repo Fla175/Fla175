@@ -4,14 +4,20 @@
 
 <p align="left"> I'm learning HTML, CSS, JS, and Bootstrap. I'm in <strong>Secondary School</strong> right now, and I'm helping with the front-end at MegaNuv, a <strong>Cloud Computing</strong> company. </p>
 
+<hr>
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:flaviofpomin@gmail.com)
 
-<h3 align="left">Nationality </h3>
+<hr>
+
+<h3 align="left">Nationality</h3>
 <p align="left">
  Brazilian [🇧🇷]
 </p>
+
+<hr>
 
 <h3 align="left">My Stack</h3>
 
@@ -19,6 +25,7 @@
  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" /> 
 </div>
 
+<hr>
 
 <div align="center"><br>
 <h3>GitHub Stats</h3>
