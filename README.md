@@ -14,7 +14,7 @@
 
 <h3 align="left">Nationality</h3>
 <p align="left">
- Brazilian [🇧🇷]
+ Brazilian 🇧🇷 🗿🍷
 </p>
 
 <hr>
@@ -22,7 +22,7 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" /> 
+ <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode" /> 
 </div>
 
 <hr>
