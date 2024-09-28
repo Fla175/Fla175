@@ -22,7 +22,7 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode" /> 
+ <img src="https://skillicons.dev/icons?i=js,html,css,tailwindcss,bootstrap,vscode" /> 
 </div>
 
 <hr>
